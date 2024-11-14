@@ -1,25 +1,87 @@
-*{
-    background-color: aqua;
+* {
+   margin: 0;
+   padding: 0;  
     font-family: "Roboto",'Times New Roman',sans-serif;
     font-weight: 400;
-    font-style: normal
+    font-style: normal;
+    background-color: antiquewhite;
+}
+
+body {    
+}
+
+header{
+    background-image: url(./imagenes/OIP.jpeg);
+    background-size:contain;
+    backface-visibility: visible;
+    font-size: 40px;
+}
+.barra {
+    margin-top: 10px;
+    
+
+     ul {
+        list-style: none; /* Quitamos los puntos de la lista */
+        margin: 0;
+        padding: 0;
+        display: flex; /* Usamos flexbox para alinear los elementos en línea */
+      }
+      
+       li {
+        margin-right: 20px; /* Espacio entre los elementos */
+      }
+      
+     a {
+        text-decoration: none; /* Quitamos el subrayado de los enlaces */
+        color: #000; /* Color del texto */
+      }
+      
+     a:hover {
+        color: #007BFF; /* Color al pasar el ratón por encima */
+      }
     
 }
 
-
-.container{
-    margin-top: 50px;
+.contenedor{
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: flex;
     justify-content: center;
-    background-color: beige;
+    border: 2px;
+    border-color: black;
     padding: 25px;
-    
+   
 }
 
 .imglibros{
-   
-    width: 300px;
-    height: 400px;
+  
+    width: 150px;
+    height: 190px;
     margin: 5px 10px;
     
 }
+.contenedor2{
+    display: grid;
+    
+}
+.respuesta {
+    background-color: antiquewhite;
+}
+
+@media (max-width: 400px) {
+    .barra {
+      background: blue;
+    }
+  }
+  
+  @media (min-width: 400px) and (max-width: 800px) {
+    .barra {
+      background: red;
+    }
+  }
+  
+  @media (min-width: 800px) {
+    .barra {
+      background: green;
+    }
+  }
