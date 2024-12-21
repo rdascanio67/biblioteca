@@ -7,15 +7,19 @@
     background-color: antiquewhite;
 }
 
-body {    
-}
 
+.header { 
+  background: url('tu-imagen-de-fondo.jpg') no-repeat center center/cover; 
+  height: 100vh; 
+  color: white; } 
+.navbar-light .navbar-nav .nav-link { color: white; }
+/*
 header{
     background-image: url(./imagenes/OIP.jpeg);
     background-size:contain;
     backface-visibility: visible;
     font-size: 40px;
-}
+}*/
 .barra {
     margin-top: 10px;
     

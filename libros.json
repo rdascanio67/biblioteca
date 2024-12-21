@@ -1,0 +1,88 @@
+ [
+    {
+        "title": "Esfera",
+        "author": "Michael Crichton",
+        "summary": "Resumen del libro 1...",
+        "cover": "./imagenes/libros/1.jpg",
+        "link": "libros/esfera.html"
+    },
+    {
+        "title": "Borges y la Matematica",
+        "author": "Guillermo Martinez",
+        "summary": "Resumen del libro 2...",
+        "cover": "./imagenes/libros/2.jpg",
+        "link": "libros/2.html"
+    },
+    {
+        "title": "Los Miserables",
+        "author": "Victor Hugo",
+        "summary": "Resumen del libro 3...",
+        "cover": "./imagenes/libros/3.jpg",
+        "link": "libros/3.html"
+    },
+    {
+        "title": "Papeles en el Viento",
+        "author": "Eduardo Sacheri",
+        "summary": "Resumen del libro 4...",
+        "cover": "./imagenes/libros/4.jpg",
+        "link": "libros/4.html"
+    },
+    {
+        "title": "La Ciudad de las Ranas",
+        "author": "Hugo ALconada Mon",
+        "summary": "Resumen del libro 5...",
+        "cover": "./imagenes/libros/5.jpeg",
+        "link": "libros/5.html"
+    },
+    
+    {
+        "title": "La Revolución es un Sueño Eterno",
+        "author": "Andrés Rivera",
+        "summary": "Resumen del libro 6...",
+        "cover": "./imagenes/libros/6.jpg",
+        "link": "libros/6.html"
+    },
+    {
+        "title": "Mas respeto que Sou tu Madre",
+        "author": "Hernán Casciari",
+        "summary": "Resumen del libro 7...",
+        "cover": "./imagenes/libros/7.jpg",
+        "link": "libros/7.html"
+    },
+    {
+        "title": "En Agosto nos Vemos",
+        "author": "Gabriel Garcia Marquez",
+        "summary": "Resumen del libro 8...",
+        "cover": "./imagenes/libros/8.jpg",
+        "link": "libros/8.html"
+    },
+    {
+        "title": "Si Te Gusta La Oscuridad",
+        "author": "Stephen King",
+        "summary": "Resumen del libro 9...",
+        "cover": "./imagenes/libros/9.jpg",
+        "link": "libros/9.html"
+    },
+    {
+        "title": "El Principito",
+        "author": "Antoine de Saint-Exupéry",
+        "summary": "Resumen del libro 10...",
+        "cover": "./imagenes/libros/10.jpg",
+        "link": "libros/10.html"
+
+    },
+    {
+        "title": "Los Dias de la Revolución",
+        "author": "Eduardo Sacheri",
+        "summary": "Resumen del libro 11...",
+        "cover": "./imagenes/libros/11.jpg",
+        "link": "libros/11.html"
+    },
+    {
+        "title": "Sarmiento",
+        "author": "Daniel Balmaceda",
+        "summary": "Resumen del libro 12...",
+        "cover": "./imagenes/libros/12.jpg",
+        "link": "libros/12.html"
+    }
+]

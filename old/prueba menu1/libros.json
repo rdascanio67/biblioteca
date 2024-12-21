@@ -1,0 +1,88 @@
+ [
+    {
+        "title": "La esfera",
+        "author": "Michael Crichton",
+        "summary": "Resumen del libro 1...",
+        "cover": "./imagenes/libros/1.jpg",
+        "link": "./libros/juvenilla.html"
+    },
+    {
+        "title": "Borges y la Matematica",
+        "author": "Guillermo Martinez",
+        "summary": "Resumen del libro 2...",
+        "cover": "./imagenes/libros/2.jpg",
+        "link": "pagina-libro2.html"
+    },
+    {
+        "title": "Los Miserables",
+        "author": "Victor Hugo",
+        "summary": "Resumen del libro 3...",
+        "cover": "./imagenes/libros/3.jpg",
+        "link": "pagina-libro3.html"
+    },
+    {
+        "title": "Papeles en el Viento",
+        "author": "Eduardo Sacheri",
+        "summary": "Resumen del libro 4...",
+        "cover": "./imagenes/libros/4.jpg",
+        "link": "pagina-libro4.html"
+    },
+    {
+        "title": "La Ciudad de las Ranas",
+        "author": "Hugo ALconada Mon",
+        "summary": "Resumen del libro 5...",
+        "cover": "./imagenes/libros/5.jpeg",
+        "link": "pagina-libro5.html"
+    },
+    
+    {
+        "title": "Título del Libro 6",
+        "author": "Autor del Libro 6",
+        "summary": "Resumen del libro 6...",
+        "cover": "./imagenes/libros/6.jpeg",
+        "link": "pagina-libro6.html"
+    },
+    {
+        "title": "Título del Libro 7",
+        "author": "Autor del Libro 7",
+        "summary": "Resumen del libro 7...",
+        "cover": "./imagenes/libros/7.jpg",
+        "link": "pagina-libro7.html"
+    },
+    {
+        "title": "Título del Libro 8",
+        "author": "Autor del Libro 8",
+        "summary": "Resumen del libro 8...",
+        "cover": "./imagenes/libros/8.jpg",
+        "link": "pagina-libro8.html"
+    },
+    {
+        "title": "Título del Libro 9",
+        "author": "Autor del Libro 9",
+        "summary": "Resumen del libro 9...",
+        "cover": "./imagenes/libros/9.jpg",
+        "link": "pagina-libro9.html"
+    },
+    {
+        "title": "Título del Libro 10",
+        "author": "Autor del Libro 10",
+        "summary": "Resumen del libro 10...",
+        "cover": "./imagenes/libros/10.jpg",
+        "link": "pagina-libro10.html"
+
+    },
+    {
+        "title": "Título del Libro 11",
+        "author": "Autor del Libro 11",
+        "summary": "Resumen del libro 11...",
+        "cover": "./imagenes/libros/11.jpg",
+        "link": "pagina-libro11.html"
+    },
+    {
+        "title": "Título del Libro 12",
+        "author": "Autor del Libro 12",
+        "summary": "Resumen del libro 12...",
+        "cover": "./imagenes/libros/12.jpg",
+        "link": "pagina-libro12.html"
+    }
+]

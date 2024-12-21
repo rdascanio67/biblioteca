@@ -4,21 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblioteca del Barrio</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../style.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
 <body>
-    <div class="textTitulo">
+    <div class="text-titulo">
         <h2><center>Biblioteca del Barrio</center></h2>
     </div>
     <nav class="navbar">
         <div class="navbar-left">
             <img src="../imagenes/logo biblioteca.png" alt="Logo" class="logo">
             <ul class="menu">
-                <li><a href="./index.html">Inicio</a></li>
+                <li><a href="#home">Inicio</a></li>
                 <li> <a href="./quienes.html">Acerca de</a></li>
-                <li><a href="./Servicios.html">Servicios</a></li>
-                <li><a href="./contacto.html">Contacto</a></li>
+                <li><a href="#services">Servicios</a></li>
+                <li><a href="#contact">Contacto</a></li>
             </ul>
         </div>
         
@@ -38,28 +39,32 @@
         
     </nav>
 
-<main>
-  
-    <section class="about">
-           
-        <div class="about-img">
-                <img src="./imagenes/chicos en bibliotecas.png" alt="">
-        </div>
+    <main>
         
-        <div class="about-txt">
-            <h2>¿Quienes Somos?</h2>
-            <p>
-                La biblioteca del barrio surgió como un emprendimiento para que los pobladoress del lugar se <b>encontraran con la Lectura</b>, esta página te acercará a la biblio para que mires que libros se encuentran en ella con una breve descripcion y pueda acercarte hasta acá para llevertelo a prestamo o bien leerlo en el lugar compartiendo un momento de lectura con otras personas. <br> 
-                Acá encontraras los cursos de lectura y encuentros con rondas de mates infinitas <br>
-                Veni!!!<br> - Acercate<br> - Leé<br> - <b>Compartí un momento fantastico.</b>
-            </p>
-
+        <h2>Listado de Libros</h2>
+        <div class="container">
+            <br>
+            <img class="imglibros" src="./imglibros/Resumen-de-las-obras-Juvenilia-2.webp"  alt="juvenilla">
         </div>
-    </section>  
+            
+            <br>
+            <h2>Resumen</h2>
+            <h3>
+                de Miguel Cané
+                Episodios alegres, cómicos, a veces grotescos, siempre emocionantes conforman esta Juvenila, donde el autor revive los excesos de su primera juventud -entre los 12 y los 17 años de edad- vivida en el Colegio Nacional de Buenos Aires.
 
-</main>
+                Una evocación autobiográfica que también puede ser saboreada como novela de ficción, tan imaginativas son las anécdotas y tan entrañables sus personajes.
+
+                Audaces travesuras y temibles bromas, alternan con momentos tristes (como la muerte del gran rector Amadeo Jacques) en un libro mucho más profundo de lo que parece.
+
+                El lector se sentirá uno más de los alumnos en el célebre Colegio -que en la época de Miguel Cané tenía pupilos- mientras se ocupaban de copiarse en las pruebas, eludir los castigos, esquivar las trompadas de algún profesor irascible, fumar a escondidas, robar uvas, botellas o sandías, mientras van abriendo las puertas a la vida y cerrando las del Colegio, casi sin advertir que allí dejan atrás su edad de oro
+            </h3>
+    </main>
 
 
+
+    
+</body>
 <footer class="footer">
      
     <ul class="social-icon">
@@ -77,14 +82,17 @@
         </a></li>
     </ul>
     <ul class="menuf">
-      <li class="menu__item"><a class="menu__link" href="./index.html">Inicio</a></li>
+      <li class="menu__item"><a class="menu__link" href="#">Inicio</a></li>
       <li class="menu__item"><a class="menu__link" href="./quienes.html">Acerca de</a></li>
-      <li class="menu__item"><a class="menu__link" href="./Servicios.html">Servicios</a></li>
+      <li class="menu__item"><a class="menu__link" href="#">Servicios</a></li>
       <li class="menu__item"><a class="menu__link" href="./contacto.html">Contacto</a></li>
 
     </ul>
     <p>&copy;2024 | Derechos reservados</p>
 </footer>
+
+
+
 
 
 <!-- Incluye Bootstrap JS y jQuery -->
@@ -94,9 +102,7 @@
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
-<script src="./script.js"></script>
-
-</body>
+<script src="../script.js"></script>
 
 
 

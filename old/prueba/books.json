@@ -1,0 +1,52 @@
+ [
+    {
+        "title": "Título del Libro 6",
+        "author": "Autor del Libro 6",
+        "summary": "Resumen del libro 6...",
+        "cover": "book-cover6.jpg",
+        "link": "pagina-libro6.html"
+    },
+    {
+        "title": "Título del Libro 7",
+        "author": "Autor del Libro 7",
+        "summary": "Resumen del libro 7...",
+        "cover": "book-cover7.jpg",
+        "link": "pagina-libro7.html"
+    },
+    {
+        "title": "Título del Libro 8",
+        "author": "Autor del Libro 8",
+        "summary": "Resumen del libro 8...",
+        "cover": "book-cover8.jpg",
+        "link": "pagina-libro8.html"
+    },
+    {
+        "title": "Título del Libro 9",
+        "author": "Autor del Libro 9",
+        "summary": "Resumen del libro 9...",
+        "cover": "book-cover9.jpg",
+        "link": "pagina-libro9.html"
+    },
+    {
+        "title": "Título del Libro 10",
+        "author": "Autor del Libro 10",
+        "summary": "Resumen del libro 10...",
+        "cover": "book-cover10.jpg",
+        "link": "pagina-libro10.html"
+
+    },
+    {
+        "title": "Título del Libro 11",
+        "author": "Autor del Libro 11",
+        "summary": "Resumen del libro 11...",
+        "cover": "book-cover11.jpg",
+        "link": "pagina-libro11.html"
+    },
+    {
+        "title": "Título del Libro 12",
+        "author": "Autor del Libro 12",
+        "summary": "Resumen del libro 12...",
+        "cover": "book-cover12.jpg",
+        "link": "pagina-libro12.html"
+    }
+]
